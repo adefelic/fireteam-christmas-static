@@ -2,26 +2,48 @@ html {
 	font-size: 10px;
 }
 
-p {
-	font-size: 2rem;
-	font-family: "Courier New";
-	font-weight: bold;
-	color: #ddf;
+body {
+	background-image: url("images/bramble.jpeg");
+	background-color: #888;
+	background-blend-mode: multiply;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
 }
 
-li {
+p {
 	font-size: 2rem;
 	font-family: "Courier New";
 	font-weight: bold;
 	color: #edf;
 }
 
-body {
-	background-image: url("images/bramble.jpeg");
-	background-color: #aaa;
-	background-blend-mode: multiply;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
-	background-attachment: fixed;
+li {
+	font-size: 2rem;
+	font-family: "Courier New";
+	font-weight: bold;
+	color: #efe;
+}
+
+.content-container {
+	padding-top: 2%;
+	padding-left: 2%;
+}
+
+.letterbox {
+	position: fixed;
+	left: 0%;
+	height: 2rem;
+	opacity: 70%;
+	width: 100%;
+	background: #111;
+}
+
+.letterbox-top {
+	top: 0%;
+}
+
+.letterbox-bottom {
+	bottom: 0%;
 }
