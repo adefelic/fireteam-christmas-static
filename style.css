@@ -1,0 +1,27 @@
+html {
+	font-size: 10px;
+}
+
+p {
+	font-size: 2rem;
+	font-family: "Courier New";
+	font-weight: bold;
+	color: #ddf;
+}
+
+li {
+	font-size: 2rem;
+	font-family: "Courier New";
+	font-weight: bold;
+	color: #edf;
+}
+
+body {
+	background-image: url("images/bramble.jpeg");
+	background-color: #aaa;
+	background-blend-mode: multiply;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
