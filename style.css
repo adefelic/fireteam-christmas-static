@@ -32,8 +32,6 @@ li {
 }
 
 .letterbox {
-	position: fixed;
-	left: 0%;
 	height: 2rem;
 	opacity: 70%;
 	width: 100%;
@@ -41,9 +39,9 @@ li {
 }
 
 .letterbox-top {
-	top: 0%;
+	display: none;
 }
 
 .letterbox-bottom {
-	bottom: 0%;
+	display: none;
 }
