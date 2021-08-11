@@ -26,6 +26,13 @@ li {
 	color: #efe;
 }
 
+.title {
+	font-size: 5rem;
+	font-family: "Luminari";
+	font-weight: bold;
+	color: #eee;
+}
+
 .content-container {
 	padding-top: 2%;
 	padding-left: 2%;
