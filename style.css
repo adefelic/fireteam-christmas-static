@@ -3,8 +3,8 @@ html {
 }
 
 body {
-	background-image: url("images/bramble.jpeg");
-	background-color: #888;
+	background-image: url("images/000080870003.jpg");
+	background-color: #ddd;
 	background-blend-mode: multiply;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -15,22 +15,20 @@ body {
 p {
 	font-size: 2rem;
 	font-family: "Courier New";
-	font-weight: bold;
-	color: #edf;
+	color: #FFE049;
 }
 
 li {
 	font-size: 2rem;
 	font-family: "Courier New";
-	font-weight: bold;
-	color: #efe;
+	color: #b9ffb9;
 }
 
 .title {
-	font-size: 5rem;
-	font-family: "Luminari";
-	font-weight: bold;
-	color: #eee;
+	font-size: 6rem;
+	font-family: "arial";
+	font-weight: lighter;
+	color: #fff;
 }
 
 .content-container {
@@ -40,9 +38,9 @@ li {
 
 .letterbox {
 	height: 2rem;
-	opacity: 70%;
+	opacity: 69%;
 	width: 100%;
-	background: #111;
+	background: #ddd;
 }
 
 .letterbox-top {
